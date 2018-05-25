@@ -17,3 +17,5 @@ TF_VAR_private_key_path= << PRIVATE KEY PATH >>
 TF_VAR_ssh_public_key= << PUBLIC KEY PATH >>
 TF_VAR_user_ocid=  << USER OCID >>
 
+
+
