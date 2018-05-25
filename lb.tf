@@ -111,7 +111,3 @@ resource "oci_load_balancer_backend" "lb-inow2" {
   offline          = false
   weight           = 1
 }
-
-output "lb_public_ip" {
-  value = ["${oci_load_balancer.inowlb1.ip_addresses}"]
-}
